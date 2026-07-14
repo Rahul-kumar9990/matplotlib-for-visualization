@@ -45,6 +45,11 @@ Choosing the right library and chart type is critical for effective storytelling
 | `05_Matrix_Heatmaps.ipynb` | Visualizing correlation matrices and data density. |
 | `06_Customization.ipynb` | Fine-tuning axes, themes, and annotations for professional output. |
 
+
+### Useful YouTube Channels:
+
+[Sheryians AI School](https://youtu.be/-jTD74eEy2I?si=-2Qs3v36oPNmxDH0)  
+
 ## For any queries/doubts 🔗 👇 
 
 - **Email**: rahul.gupta37841@gmail.com
